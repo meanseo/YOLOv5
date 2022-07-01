@@ -9,7 +9,7 @@ folium==0.12.1
 googlemaps==4.4.5
 html5lib
 icecream==2.1.1
-idna==2.10
+idna==3.3
 itsdangerous==1.1.0
 Jinja2==2.11.2
 JPype1
